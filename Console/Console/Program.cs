@@ -9,7 +9,7 @@ namespace Console
     {
         static void Main(string[] args)
         {
-            int i = 100;
+            int i = 200;
             System.Diagnostics.Debug.WriteLine(i.ToString());
             System.Diagnostics.Debug.WriteLine(i.ToString());
         }
