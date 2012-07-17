@@ -18,12 +18,12 @@ namespace Console
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            System.Diagnostics.Debug.WriteLine(",..");
+            System.Diagnostics.Debug.WriteLine("111");
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            System.Diagnostics.Debug.WriteLine("222");
         }
     }
 }
