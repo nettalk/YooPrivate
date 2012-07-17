@@ -20,5 +20,10 @@ namespace Console
         {
             System.Diagnostics.Debug.WriteLine(",..");
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
