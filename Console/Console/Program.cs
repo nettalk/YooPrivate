@@ -11,6 +11,7 @@ namespace Console
         {
             int i = 3;
             System.Diagnostics.Debug.WriteLine(i.ToString());
+            System.Diagnostics.Debug.WriteLine(i.ToString());
         }
     }
 }
